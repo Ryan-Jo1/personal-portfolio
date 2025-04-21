@@ -54,9 +54,9 @@ export default function App() {
           </Card>
 
           <Card title="Contact">
-            <p>📧 ryanjo@example.com</p>
-            <p>💼 linkedin.com/in/ryanjo</p>
-            <p>💻 github.com/ryanjo</p>
+            <p>📧 rjo1109ny@gmail.com</p>
+            <p>💼 https://www.linkedin.com/in/ryan-jo-728b2531b/</p>
+            <p>💻 https://github.com/Ryan-Jo1</p>
           </Card>
         </div>
 
@@ -66,7 +66,7 @@ export default function App() {
           transition={{ delay: 1 }}
           className="text-center text-gray-500 mt-16 text-sm"
         >
-          © 2025 Ryan Jo. Built with ❤️ React + TailwindCSS
+          © 2025 Ryan Jo. Built with React + TailwindCSS
         </motion.footer>
       </div>
     </div>
