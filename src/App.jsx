@@ -30,14 +30,15 @@ export default function App() {
         <div className="grid gap-8 md:grid-cols-2 xl:grid-cols-3">
           <Card title="About Me">
             I’m a CS student interested in firmware engineering, software development, and research in
-            browser automation tools. I’m currently building a GitHub commit automation extension.
+            browser automation tools. I am in incoming research assistant at Stevens focusing on a 
+            GitHub commit automation chrome extension.
           </Card>
 
           <Card title="Projects">
             <ul className="list-disc list-inside space-y-1">
-              <li>GitHub Commit Automation Tool</li>
-              <li>Skip List in Java</li>
-              <li>3D Rendering with OpenGL</li>
+              <li>Posture correction website with integrated study helping tools</li>
+              <li>TravelCompanion app for travelers - deployed using Docker</li>
+              <li>Food searcher and food information database website</li>
             </ul>
           </Card>
 
@@ -47,8 +48,8 @@ export default function App() {
 
           <Card title="Skills">
             <ul className="list-disc list-inside space-y-1">
-              <li>Languages: Java, Python, C, JavaScript</li>
-              <li>Tools: VSCode, Git, FastAPI</li>
+              <li>Languages: Java, Python, JavaScript</li>
+              <li>Tools: VSCode, Git, FastAPI, Docker</li>
               <li>CS Topics: Data Structures, OOP, Web Dev</li>
             </ul>
           </Card>
