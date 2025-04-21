@@ -34,7 +34,7 @@ export default function App() {
           className="text-center mb-12"
         >
           <h1 className="text-5xl font-extrabold tracking-tight mb-3">Ryan Jo</h1>
-          <p className="text-lg text-gray-600 dark:text-gray-400">CS @ Stevens Institute of Technology</p>
+          <p className="text-lg text-gray-600 dark:text-gray-400">Computer Science @ Stevens Institute of Technology</p>
 
           {/* Resume & Dark Mode Toggle */}
           <div className="flex justify-center gap-4 mt-6">
@@ -56,7 +56,7 @@ export default function App() {
 
         <div className="grid gap-10 md:grid-cols-2 xl:grid-cols-3">
           <Section title="About Me">
-            I’m a CS student interested in firmware engineering, software development, and research in
+            I am a Computer Science student interested in firmware engineering, software development, and research in
             browser automation tools. I am an incoming research assistant at Stevens focusing on a GitHub
             commit automation Chrome extension.
           </Section>
